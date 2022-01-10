@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://abhisupekar.github.io/csb-zuxch/static/css/main.ff4d0690.chunk.css",
+    "main.js": "https://abhisupekar.github.io/csb-zuxch/static/js/main.5c305a28.chunk.js",
+    "main.js.map": "https://abhisupekar.github.io/csb-zuxch/static/js/main.5c305a28.chunk.js.map",
+    "runtime-main.js": "https://abhisupekar.github.io/csb-zuxch/static/js/runtime-main.5379143a.js",
+    "runtime-main.js.map": "https://abhisupekar.github.io/csb-zuxch/static/js/runtime-main.5379143a.js.map",
+    "static/js/2.b8a79649.chunk.js": "https://abhisupekar.github.io/csb-zuxch/static/js/2.b8a79649.chunk.js",
+    "static/js/2.b8a79649.chunk.js.map": "https://abhisupekar.github.io/csb-zuxch/static/js/2.b8a79649.chunk.js.map",
+    "index.html": "https://abhisupekar.github.io/csb-zuxch/index.html",
+    "static/css/main.ff4d0690.chunk.css.map": "https://abhisupekar.github.io/csb-zuxch/static/css/main.ff4d0690.chunk.css.map",
+    "static/js/2.b8a79649.chunk.js.LICENSE.txt": "https://abhisupekar.github.io/csb-zuxch/static/js/2.b8a79649.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5379143a.js",
+    "static/js/2.b8a79649.chunk.js",
+    "static/css/main.ff4d0690.chunk.css",
+    "static/js/main.5c305a28.chunk.js"
+  ]
+}
